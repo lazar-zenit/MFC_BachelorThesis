@@ -7,7 +7,7 @@ data=pd.read_excel("radno.xls")
 #print(data)
 
 #Anode surface (m^2)
-Aan=0.00735
+Aan=0.00825
 #open circuit voltage (mV)
 OCV_mV=8.5
 OCV=OCV_mV/1000
